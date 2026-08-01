@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0365-water-and-jug-problem](https://github.com/sujalsahu5082/LeetCode/tree/master/0365-water-and-jug-problem) |
+| [0486-predict-the-winner](https://github.com/sujalsahu5082/LeetCode/tree/master/0486-predict-the-winner) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/sujalsahu5082/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/sujalsahu5082/LeetCode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Depth-First Search
@@ -18,6 +19,7 @@
 ## Array
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/sujalsahu5082/LeetCode/tree/master/0486-predict-the-winner) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sujalsahu5082/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Sorting
 |  |
@@ -58,4 +60,16 @@
 | ------- |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/sujalsahu5082/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sujalsahu5082/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/sujalsahu5082/LeetCode/tree/master/0486-predict-the-winner) |
+## Recursion
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/sujalsahu5082/LeetCode/tree/master/0486-predict-the-winner) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/sujalsahu5082/LeetCode/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
