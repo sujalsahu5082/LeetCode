@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0365-water-and-jug-problem](https://github.com/sujalsahu5082/LeetCode/tree/master/0365-water-and-jug-problem) |
+| [0390-elimination-game](https://github.com/sujalsahu5082/LeetCode/tree/master/0390-elimination-game) |
 | [0486-predict-the-winner](https://github.com/sujalsahu5082/LeetCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/sujalsahu5082/LeetCode/tree/master/0877-stone-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/sujalsahu5082/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -78,6 +79,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0390-elimination-game](https://github.com/sujalsahu5082/LeetCode/tree/master/0390-elimination-game) |
 | [0486-predict-the-winner](https://github.com/sujalsahu5082/LeetCode/tree/master/0486-predict-the-winner) |
 ## Game Theory
 |  |
