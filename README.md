@@ -13,6 +13,7 @@
 |  |
 | ------- |
 | [0365-water-and-jug-problem](https://github.com/sujalsahu5082/LeetCode/tree/master/0365-water-and-jug-problem) |
+| [0388-longest-absolute-file-path](https://github.com/sujalsahu5082/LeetCode/tree/master/0388-longest-absolute-file-path) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -39,6 +40,7 @@
 |  |
 | ------- |
 | [0290-word-pattern](https://github.com/sujalsahu5082/LeetCode/tree/master/0290-word-pattern) |
+| [0388-longest-absolute-file-path](https://github.com/sujalsahu5082/LeetCode/tree/master/0388-longest-absolute-file-path) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/sujalsahu5082/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sujalsahu5082/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/sujalsahu5082/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -79,4 +81,8 @@
 | ------- |
 | [0486-predict-the-winner](https://github.com/sujalsahu5082/LeetCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/sujalsahu5082/LeetCode/tree/master/0877-stone-game) |
+## Stack
+|  |
+| ------- |
+| [0388-longest-absolute-file-path](https://github.com/sujalsahu5082/LeetCode/tree/master/0388-longest-absolute-file-path) |
 <!---LeetCode Topics End-->
