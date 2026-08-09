@@ -26,6 +26,7 @@
 ## Array
 |  |
 | ------- |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/sujalsahu5082/LeetCode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0391-perfect-rectangle](https://github.com/sujalsahu5082/LeetCode/tree/master/0391-perfect-rectangle) |
 | [0486-predict-the-winner](https://github.com/sujalsahu5082/LeetCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/sujalsahu5082/LeetCode/tree/master/0877-stone-game) |
@@ -45,6 +46,7 @@
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/sujalsahu5082/LeetCode/tree/master/0295-find-median-from-data-stream) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/sujalsahu5082/LeetCode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sujalsahu5082/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## String
 |  |
