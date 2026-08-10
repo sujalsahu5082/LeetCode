@@ -11,6 +11,7 @@
 | [0486-predict-the-winner](https://github.com/sujalsahu5082/LeetCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/sujalsahu5082/LeetCode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/sujalsahu5082/LeetCode/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/sujalsahu5082/LeetCode/tree/master/1510-stone-game-iv) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/sujalsahu5082/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/sujalsahu5082/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/sujalsahu5082/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -97,6 +98,7 @@
 | [0486-predict-the-winner](https://github.com/sujalsahu5082/LeetCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/sujalsahu5082/LeetCode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/sujalsahu5082/LeetCode/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/sujalsahu5082/LeetCode/tree/master/1510-stone-game-iv) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/sujalsahu5082/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Recursion
 |  |
@@ -110,6 +112,7 @@
 | [0486-predict-the-winner](https://github.com/sujalsahu5082/LeetCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/sujalsahu5082/LeetCode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/sujalsahu5082/LeetCode/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/sujalsahu5082/LeetCode/tree/master/1510-stone-game-iv) |
 ## Stack
 |  |
 | ------- |
@@ -156,6 +159,7 @@
 | ------- |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/sujalsahu5082/LeetCode/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [1140-stone-game-ii](https://github.com/sujalsahu5082/LeetCode/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/sujalsahu5082/LeetCode/tree/master/1510-stone-game-iv) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -164,6 +168,7 @@
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/sujalsahu5082/LeetCode/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/sujalsahu5082/LeetCode/tree/master/1510-stone-game-iv) |
 ## Binary Search
 |  |
 | ------- |
@@ -172,4 +177,12 @@
 |  |
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/sujalsahu5082/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/sujalsahu5082/LeetCode/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/sujalsahu5082/LeetCode/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
