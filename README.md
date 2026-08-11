@@ -35,6 +35,7 @@
 | [0877-stone-game](https://github.com/sujalsahu5082/LeetCode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/sujalsahu5082/LeetCode/tree/master/1140-stone-game-ii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sujalsahu5082/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sujalsahu5082/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/sujalsahu5082/LeetCode/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
@@ -43,6 +44,7 @@
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/sujalsahu5082/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0389-find-the-difference](https://github.com/sujalsahu5082/LeetCode/tree/master/0389-find-the-difference) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sujalsahu5082/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sujalsahu5082/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sujalsahu5082/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/sujalsahu5082/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3731-find-missing-elements](https://github.com/sujalsahu5082/LeetCode/tree/master/3731-find-missing-elements) |
@@ -77,6 +79,7 @@
 | [0290-word-pattern](https://github.com/sujalsahu5082/LeetCode/tree/master/0290-word-pattern) |
 | [0389-find-the-difference](https://github.com/sujalsahu5082/LeetCode/tree/master/0389-find-the-difference) |
 | [0391-perfect-rectangle](https://github.com/sujalsahu5082/LeetCode/tree/master/0391-perfect-rectangle) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sujalsahu5082/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sujalsahu5082/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/sujalsahu5082/LeetCode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3731-find-missing-elements](https://github.com/sujalsahu5082/LeetCode/tree/master/3731-find-missing-elements) |
