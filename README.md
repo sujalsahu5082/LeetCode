@@ -6,6 +6,7 @@
 | ------- |
 | [0365-water-and-jug-problem](https://github.com/sujalsahu5082/LeetCode/tree/master/0365-water-and-jug-problem) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/sujalsahu5082/LeetCode/tree/master/0375-guess-number-higher-or-lower-ii) |
+| [0382-linked-list-random-node](https://github.com/sujalsahu5082/LeetCode/tree/master/0382-linked-list-random-node) |
 | [0390-elimination-game](https://github.com/sujalsahu5082/LeetCode/tree/master/0390-elimination-game) |
 | [0391-perfect-rectangle](https://github.com/sujalsahu5082/LeetCode/tree/master/0391-perfect-rectangle) |
 | [0486-predict-the-winner](https://github.com/sujalsahu5082/LeetCode/tree/master/0486-predict-the-winner) |
@@ -198,4 +199,16 @@
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/sujalsahu5082/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Linked List
+|  |
+| ------- |
+| [0382-linked-list-random-node](https://github.com/sujalsahu5082/LeetCode/tree/master/0382-linked-list-random-node) |
+## Reservoir Sampling
+|  |
+| ------- |
+| [0382-linked-list-random-node](https://github.com/sujalsahu5082/LeetCode/tree/master/0382-linked-list-random-node) |
+## Randomized
+|  |
+| ------- |
+| [0382-linked-list-random-node](https://github.com/sujalsahu5082/LeetCode/tree/master/0382-linked-list-random-node) |
 <!---LeetCode Topics End-->
