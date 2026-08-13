@@ -29,6 +29,7 @@
 ## Array
 |  |
 | ------- |
+| [0228-summary-ranges](https://github.com/sujalsahu5082/LeetCode/tree/master/0228-summary-ranges) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/sujalsahu5082/LeetCode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/sujalsahu5082/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0391-perfect-rectangle](https://github.com/sujalsahu5082/LeetCode/tree/master/0391-perfect-rectangle) |
