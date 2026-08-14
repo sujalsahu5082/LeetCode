@@ -69,6 +69,7 @@
 | [2213-longest-substring-of-one-repeating-character](https://github.com/sujalsahu5082/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/sujalsahu5082/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sujalsahu5082/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/sujalsahu5082/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/sujalsahu5082/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/sujalsahu5082/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/sujalsahu5082/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -89,6 +90,7 @@
 | [0391-perfect-rectangle](https://github.com/sujalsahu5082/LeetCode/tree/master/0391-perfect-rectangle) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sujalsahu5082/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sujalsahu5082/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/sujalsahu5082/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/sujalsahu5082/LeetCode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3731-find-missing-elements](https://github.com/sujalsahu5082/LeetCode/tree/master/3731-find-missing-elements) |
 ## Combinatorics
@@ -220,4 +222,8 @@
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/sujalsahu5082/LeetCode/tree/master/0229-majority-element-ii) |
+## Sliding Window
+|  |
+| ------- |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/sujalsahu5082/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 <!---LeetCode Topics End-->
