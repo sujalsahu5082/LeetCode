@@ -13,6 +13,7 @@
 | [0877-stone-game](https://github.com/sujalsahu5082/LeetCode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/sujalsahu5082/LeetCode/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/sujalsahu5082/LeetCode/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/sujalsahu5082/LeetCode/tree/master/1872-stone-game-viii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/sujalsahu5082/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/sujalsahu5082/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/sujalsahu5082/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -38,6 +39,7 @@
 | [0877-stone-game](https://github.com/sujalsahu5082/LeetCode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/sujalsahu5082/LeetCode/tree/master/1140-stone-game-ii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sujalsahu5082/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1872-stone-game-viii](https://github.com/sujalsahu5082/LeetCode/tree/master/1872-stone-game-viii) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/sujalsahu5082/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sujalsahu5082/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/sujalsahu5082/LeetCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -113,6 +115,7 @@
 | [0877-stone-game](https://github.com/sujalsahu5082/LeetCode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/sujalsahu5082/LeetCode/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/sujalsahu5082/LeetCode/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/sujalsahu5082/LeetCode/tree/master/1872-stone-game-viii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/sujalsahu5082/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Recursion
 |  |
@@ -127,6 +130,7 @@
 | [0877-stone-game](https://github.com/sujalsahu5082/LeetCode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/sujalsahu5082/LeetCode/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/sujalsahu5082/LeetCode/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/sujalsahu5082/LeetCode/tree/master/1872-stone-game-viii) |
 ## Stack
 |  |
 | ------- |
@@ -175,15 +179,18 @@
 | [0375-guess-number-higher-or-lower-ii](https://github.com/sujalsahu5082/LeetCode/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [1140-stone-game-ii](https://github.com/sujalsahu5082/LeetCode/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/sujalsahu5082/LeetCode/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/sujalsahu5082/LeetCode/tree/master/1872-stone-game-viii) |
 ## Prefix Sum
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/sujalsahu5082/LeetCode/tree/master/1140-stone-game-ii) |
+| [1872-stone-game-viii](https://github.com/sujalsahu5082/LeetCode/tree/master/1872-stone-game-viii) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/sujalsahu5082/LeetCode/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/sujalsahu5082/LeetCode/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/sujalsahu5082/LeetCode/tree/master/1872-stone-game-viii) |
 ## Binary Search
 |  |
 | ------- |
