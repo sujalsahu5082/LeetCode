@@ -18,6 +18,7 @@
 | [3345-smallest-divisible-digit-product-i](https://github.com/sujalsahu5082/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/sujalsahu5082/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/sujalsahu5082/LeetCode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+| [3875-construct-uniform-parity-array-i](https://github.com/sujalsahu5082/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -47,6 +48,7 @@
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/sujalsahu5082/LeetCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/sujalsahu5082/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/sujalsahu5082/LeetCode/tree/master/3731-find-missing-elements) |
+| [3875-construct-uniform-parity-array-i](https://github.com/sujalsahu5082/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Sorting
 |  |
 | ------- |
