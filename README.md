@@ -34,6 +34,7 @@
 | ------- |
 | [0228-summary-ranges](https://github.com/sujalsahu5082/LeetCode/tree/master/0228-summary-ranges) |
 | [0229-majority-element-ii](https://github.com/sujalsahu5082/LeetCode/tree/master/0229-majority-element-ii) |
+| [0240-search-a-2d-matrix-ii](https://github.com/sujalsahu5082/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/sujalsahu5082/LeetCode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/sujalsahu5082/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0391-perfect-rectangle](https://github.com/sujalsahu5082/LeetCode/tree/master/0391-perfect-rectangle) |
@@ -208,10 +209,12 @@
 ## Binary Search
 |  |
 | ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/sujalsahu5082/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/sujalsahu5082/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Matrix
 |  |
 | ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/sujalsahu5082/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/sujalsahu5082/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/sujalsahu5082/LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Nim Game
@@ -251,4 +254,8 @@
 | ------- |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/sujalsahu5082/LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/sujalsahu5082/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/sujalsahu5082/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 <!---LeetCode Topics End-->
