@@ -24,6 +24,7 @@
 | ------- |
 | [0365-water-and-jug-problem](https://github.com/sujalsahu5082/LeetCode/tree/master/0365-water-and-jug-problem) |
 | [0388-longest-absolute-file-path](https://github.com/sujalsahu5082/LeetCode/tree/master/0388-longest-absolute-file-path) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/sujalsahu5082/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -260,4 +261,12 @@
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/sujalsahu5082/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
+## Tree
+|  |
+| ------- |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/sujalsahu5082/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Binary Tree
+|  |
+| ------- |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/sujalsahu5082/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 <!---LeetCode Topics End-->
