@@ -41,6 +41,7 @@
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/sujalsahu5082/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0391-perfect-rectangle](https://github.com/sujalsahu5082/LeetCode/tree/master/0391-perfect-rectangle) |
 | [0486-predict-the-winner](https://github.com/sujalsahu5082/LeetCode/tree/master/0486-predict-the-winner) |
+| [0835-image-overlap](https://github.com/sujalsahu5082/LeetCode/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/sujalsahu5082/LeetCode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/sujalsahu5082/LeetCode/tree/master/1140-stone-game-ii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sujalsahu5082/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -221,6 +222,7 @@
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/sujalsahu5082/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/sujalsahu5082/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0835-image-overlap](https://github.com/sujalsahu5082/LeetCode/tree/master/0835-image-overlap) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/sujalsahu5082/LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Nim Game
 |  |
