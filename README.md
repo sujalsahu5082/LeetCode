@@ -10,6 +10,7 @@
 | [0390-elimination-game](https://github.com/sujalsahu5082/LeetCode/tree/master/0390-elimination-game) |
 | [0391-perfect-rectangle](https://github.com/sujalsahu5082/LeetCode/tree/master/0391-perfect-rectangle) |
 | [0486-predict-the-winner](https://github.com/sujalsahu5082/LeetCode/tree/master/0486-predict-the-winner) |
+| [0836-rectangle-overlap](https://github.com/sujalsahu5082/LeetCode/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/sujalsahu5082/LeetCode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/sujalsahu5082/LeetCode/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/sujalsahu5082/LeetCode/tree/master/1510-stone-game-iv) |
@@ -160,6 +161,7 @@
 |  |
 | ------- |
 | [0391-perfect-rectangle](https://github.com/sujalsahu5082/LeetCode/tree/master/0391-perfect-rectangle) |
+| [0836-rectangle-overlap](https://github.com/sujalsahu5082/LeetCode/tree/master/0836-rectangle-overlap) |
 ## Sweep Line
 |  |
 | ------- |
