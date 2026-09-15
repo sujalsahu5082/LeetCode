@@ -80,6 +80,7 @@
 | [0388-longest-absolute-file-path](https://github.com/sujalsahu5082/LeetCode/tree/master/0388-longest-absolute-file-path) |
 | [0389-find-the-difference](https://github.com/sujalsahu5082/LeetCode/tree/master/0389-find-the-difference) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/sujalsahu5082/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/sujalsahu5082/LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/sujalsahu5082/LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/sujalsahu5082/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sujalsahu5082/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -119,6 +120,7 @@
 ## Greedy
 |  |
 | ------- |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/sujalsahu5082/LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/sujalsahu5082/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sujalsahu5082/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/sujalsahu5082/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -133,6 +135,7 @@
 | [1140-stone-game-ii](https://github.com/sujalsahu5082/LeetCode/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/sujalsahu5082/LeetCode/tree/master/1510-stone-game-iv) |
 | [1872-stone-game-viii](https://github.com/sujalsahu5082/LeetCode/tree/master/1872-stone-game-viii) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/sujalsahu5082/LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/sujalsahu5082/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Recursion
 |  |
@@ -171,6 +174,7 @@
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/sujalsahu5082/LeetCode/tree/master/0295-find-median-from-data-stream) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/sujalsahu5082/LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/sujalsahu5082/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Design
 |  |
