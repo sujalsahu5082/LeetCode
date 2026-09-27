@@ -79,6 +79,7 @@
 | [0290-word-pattern](https://github.com/sujalsahu5082/LeetCode/tree/master/0290-word-pattern) |
 | [0388-longest-absolute-file-path](https://github.com/sujalsahu5082/LeetCode/tree/master/0388-longest-absolute-file-path) |
 | [0389-find-the-difference](https://github.com/sujalsahu5082/LeetCode/tree/master/0389-find-the-difference) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sujalsahu5082/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/sujalsahu5082/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/sujalsahu5082/LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/sujalsahu5082/LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -155,6 +156,7 @@
 |  |
 | ------- |
 | [0388-longest-absolute-file-path](https://github.com/sujalsahu5082/LeetCode/tree/master/0388-longest-absolute-file-path) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sujalsahu5082/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -277,4 +279,8 @@
 |  |
 | ------- |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/sujalsahu5082/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sujalsahu5082/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
